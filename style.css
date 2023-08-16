@@ -228,8 +228,8 @@ body {
         font-size: 1.75rem;
         margin-bottom: 1rem;
     }
-    .home-img{
-        display: none;
+    .home-img {
+        margin-top: 50px;
     }
 }
 @media (max-width: 600px) {
