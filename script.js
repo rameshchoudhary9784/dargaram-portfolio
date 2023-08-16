@@ -2,7 +2,7 @@ function scroll() {
     var header = document.getElementById('header') 
     var scrollValue = window.scrollY;
 
-    if(scrollValue < 100) {
+    if(scrollValue < 10) {
         header.classList.remove('scroll')
     } else {
         header.classList.add('scroll')
