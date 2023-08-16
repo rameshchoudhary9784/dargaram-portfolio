@@ -24,7 +24,12 @@ body {
     justify-content: space-between;
     z-index: 100;
 }
-
+.scroll {
+    transition: all .3s ease;
+    background: #0ef;
+    color: #FFF;
+    border-bottom: 1px solid lightblue;
+}
 .logo {
     font-size: 25px;
     color: #FFF;
