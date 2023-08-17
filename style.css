@@ -100,6 +100,7 @@ body {
     animation-delay: 1s;
 }
 .home .home-img {
+    border-radius: 50%;
     max-width: 450px;
 }
 .home .home-img img {
@@ -108,6 +109,7 @@ body {
     opacity: 0;
     animation: zoomIn 1s ease forwards, floatImage 4s ease-in-out infinite;
     animation-delay: 2s, 3s;
+    filter: drop-shadow(0 10px 10px #0ef);
 }
 
 .social-media a{
