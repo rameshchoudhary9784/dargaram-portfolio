@@ -13,7 +13,7 @@ window.addEventListener('scroll', scroll)
 
 
 var typed = new Typed(".multiple-text", {
-    strings: ["Mechanical Engineer", "Tools Designer", "3-D Designer"],
+    strings: ["Mechanical Engineer", "Robotic Programmer", "Press Line Manager"],
     typeSpeed: 100,
     backSpeed: 100,
     loop: true
